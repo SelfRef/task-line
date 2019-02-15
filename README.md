@@ -1,14 +1,18 @@
-# TaskLine
+---
+code_name: TM-W_TASK-LINE_SPA_REA_TSC
+create_date: 2017-07
+obsolete_date: 2017-07
+author: TM
+author_site: timsmanter.net
+editor: Visual Studio Code
+language: TypeScript
+framework: React
+locale: en_US
+license: MIT
+status: [Dev, Sample]
+---
 
-* @Author: TimsManter
-* @AuthorSite: [TimsManter.NET](http://timsmanter.net/)
-* @CreateDate: 2017-07
-* @Editor: Visual Studio Code
-* @Language: TypeScript
-* @Framework: React
-* @Locale: en_US
-* @License: [MIT](LICENSE.md)
-* @Status: Dev | Active | Sample
+# TaskLine
 
 ## Overview
 
