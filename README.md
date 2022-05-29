@@ -1,20 +1,17 @@
 ---
-code_name: TM-W_TASK-LINE_SPA_REA_TSC
 create_date: 2017-07
-obsolete_date: 2017-07
-author: TM
-author_site: timsmanter.net
-editor: Visual Studio Code
+archive_date: 2017-07
 language: TypeScript
 framework: React
+editor: Visual Studio Code
 locale: en_US
 license: MIT
-status: [Dev, Sample]
+status: Archive
 ---
 
 # TaskLine
 
-## Overview
+## Description
 
 TaskLine is simple frontend-only task board example created using React framework, ~~TypeScript~~ Babel and Webpack bundler.
 
