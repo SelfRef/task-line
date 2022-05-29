@@ -1,7 +1,7 @@
 ---
 create_date: 2017-07
 archive_date: 2017-07
-language: TypeScript
+language: [JavaScript, TypeScript]
 framework: React
 editor: Visual Studio Code
 locale: en_US
